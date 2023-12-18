@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import TaskList from '../components/TaskList';
-import './dashboard.css';
 import { useRouter } from 'next/router';
 
 const Dashboard = () => {

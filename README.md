@@ -22,7 +22,7 @@ This project is a task management application built using React & NextJs and lev
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/repository.git`
+1. Clone the repository: `git clone https://github.com/arield13/task-management.git`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
 

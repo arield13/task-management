@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { loginUser } from '../services/authService'; // Import the login service
 import { useRouter } from 'next/router';
-import './dashboard.css';
 
 const LoginPage = () => {
   // Initialize Next.js router

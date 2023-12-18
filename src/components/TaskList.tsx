@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { DragDropContext, Droppable, Draggable, DropResult } from 'react-beautiful-dnd'; // Importing necessary components for drag-and-drop functionality
 import { v4 as uuidv4 } from 'uuid'; // Importing UUID to generate unique IDs
-import '../pages/dashboard'; // Importing necessary styles or components
 import ListMenu from './ListMenu'; // Importing ListMenu component
 import EditTask from './EditTask'; // Importing EditTask component
 
